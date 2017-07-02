@@ -1,0 +1,5 @@
+1 - Estrutura do arquivo de entrada:
+Nome	Turma	Mentor	URI-ID
+
+2 - Para executar o arquivo:
+python3 ranking.py < ranking.in
